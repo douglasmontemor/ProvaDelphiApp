@@ -1,5 +1,5 @@
 # Desafio Dephi - Versão França
-Projeto realizado para atender as tarefas do desafio "Prova Dephi - Versão França".
+Projeto realizado para atender as tarefas do desafio "Dephi - Versão França".
 
 # Ambiente
 O sistema foi desenvolvido em Delphi versão XE7 utilizando os componentes nativos da IDE e componentes criados de acordo com as tarefas.
