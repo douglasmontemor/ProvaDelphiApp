@@ -2,7 +2,7 @@
 Projeto realizado para atender as tarefas da prova versão França.
 
 # Ambiente
-O sistema foi desenvolvido em Delphi versão Tokyo utilizando os componentes nativos da IDE e componentes criados de acordo com as tarefas.
+O sistema foi desenvolvido em Delphi versão XE7 utilizando os componentes nativos da IDE e componentes criados de acordo com as tarefas.
 
 # Estrutura da Aplicação
 A aplicação consiste em um formulário principal com um menu "Tarefas", neste menu é disponibilizado três opções de tarefas(Tarefa 1, Tarefa 2 e Tarefa 3), de acordo com a seleção da tarefa é aberto um novo formulário.
